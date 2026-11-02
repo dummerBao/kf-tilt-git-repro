@@ -1,0 +1,6 @@
+acc.noiseStdG = 0.00323 g
+gyro.noiseStd = 0.1670 deg/s
+gyro.driftAmp = [0.2433 0.7298 1.2163] deg/s
+gyro.driftFreq = [0.500 1.500 2.500] Hz
+cost J = 0.000000
+achieved: acc30=0.1830 gyro30=0.1360 gyro120=0.2170
